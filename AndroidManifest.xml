@@ -1,0 +1,5 @@
+    
+    Permission you need to give in AndroidManifest.xml
+    
+    
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
